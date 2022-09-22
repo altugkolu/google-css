@@ -1,0 +1,87 @@
+.container{
+    width:100%;
+    margin: 50px auto;
+}
+ 
+ .img{
+     text-align: center;
+ }
+ 
+ .search{
+     background-color:gray;
+     margin-left: auto;
+     margin-top: 0px;
+     text-align: center;
+ }
+
+.searchbar{
+    margin-top: -15px;
+    
+}
+
+.bar{
+    width: 20%;
+    text-align: center;
+    margin-top: -100px;
+    
+}
+
+.btn{
+   margin-top: 5px;
+   margin-bottom: 5px;
+   
+}
+
+button{
+    font-size: 15px;
+}
+
+.altuclu{
+    margin-top: 5px;
+}
+.altuclu1{
+    background-color:aquamarine;
+    float: left;
+    /*padding-top: 3%;*/
+    width: 35%;
+   margin-right: 1%;
+   text-align: center;
+}
+
+.altuclu2{
+    background-color:aquamarine;
+    float: left;
+    /* padding: 3%;*/
+   margin-right: 1%;
+    width: 23%;
+    text-align: center;
+}
+
+.altuclu3{
+    background-color:aquamarine;
+    float: left;
+   /* padding: 3%;*/
+    /*margin-left: 2%;*/
+    width: 40%;
+    text-align: center;
+}
+
+.bar2{
+    margin-top: 9px;
+    margin-bottom: 1%;
+    margin-left: 38%;
+    float: left;
+    position: relative;
+}
+.arama2{
+    margin-top: -10px;
+    
+}
+
+.archive{
+    margin-top: 9px;
+    margin-bottom: 1%;
+    margin-left: 2%;
+    float: left;
+    position: relative;
+}
